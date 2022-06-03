@@ -1,0 +1,16 @@
+{
+    "name": "alex/myproject.com",
+    "autoload": {
+        "psr-4": {
+            "App\\": "hw4.2/App"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "AYaichuk",
+            "email": "a.yaychuk@gmail.com"
+        }
+    ],
+    "require": {}
+}
